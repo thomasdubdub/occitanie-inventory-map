@@ -4,6 +4,9 @@ Analysis and visualization of inventory records of cultural heritage of the Fren
 Data are stored as a table with [GeoPandas](http://geopandas.org/)
 A 2D visualization of inventory locations is realized with [ipyleaflet](https://ipyleaflet.readthedocs.io/en/latest/)
 
+Example: display all records as a heatmap
+
+![Occitanie inventory heatmap](heatmap.png)
 
 ## Running the tests
 
