@@ -1,7 +1,9 @@
 # Inventory records of cultural heritage of the French region Occitanie
 
 Analysis and visualization of inventory records of cultural heritage of the French region Occitanie provided as open data on the [data gouv website](https://www.data.gouv.fr/fr/datasets/5bfdeafa9ce2e70269bea587/)
+
 Data are stored as a table with [GeoPandas](http://geopandas.org/)
+
 A 2D visualization of inventory locations is realized with [ipyleaflet](https://ipyleaflet.readthedocs.io/en/latest/)
 
 Example: display all records as a heatmap
@@ -10,7 +12,9 @@ Example: display all records as a heatmap
 
 ## Running the tests
 
-Run occitanie-inventory-map.ipynb
+The code is available in the file occitanie-inventory-map.ipynb
+
+You can directly download the two maps (heatmap and markers) by downloading the HTML files (occitanie_markers and occitanie_heatmap)
 
 
 ## Built With
