@@ -6,15 +6,17 @@ Data are stored as a table with [GeoPandas](http://geopandas.org/)
 
 A 2D visualization of inventory locations is realized with [ipyleaflet](https://ipyleaflet.readthedocs.io/en/latest/)
 
-Example: display all records as a heatmap
+Example: marker clusters and heatmap
+
+![Occitanie inventory markers](markers.png)
 
 ![Occitanie inventory heatmap](heatmap.png)
 
 ## Running the tests
 
-The code is available in the file occitanie-inventory-map.ipynb
+The entire code is available in the file occitanie-inventory-map.ipynb
 
-You can directly download the two maps (heatmap and markers) by downloading the HTML files (occitanie_markers and occitanie_heatmap)
+You can use it to generate the two maps (heatmap and markers) in HTML
 
 
 ## Built With
